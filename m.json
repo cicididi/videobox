@@ -4230,7 +4230,7 @@
         }
     ],
     "wallpaper": "https://picsum.photos/1920/1080/?blur=10",
-    "spider": "https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
+    "spider": "https://raw.githubusercontent.com/cicididi/videobox/main/jar/spider2207.jar;md5;727C472F6F06E2958FF50FBD0C2AAE21",
     "flags": [
         "youku",
         "qq",
